@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1. 131";
+var _g_ver_blAppPlx = "v0.1. 132 ";
 
 function _plxJobClass()
 { 
@@ -21,10 +21,10 @@ function _plxJobClass()
 				}(o, btn, d.v);
 
 				INO ++;
-  				var url = "https://api.github.com/repos/littleflute/bat/issues/" + INO ;
+  				var url = "https://api.github.com/repos/lixinyuan2008/flute/issues/" + INO ;
   				w3.getHttpObject(url, _loadIssue);
   			}
-  			var url = "https://api.github.com/repos/littleflute/bat/issues/" + INO ;
+  			var url = "https://api.github.com/repos/lixinyuan2008/flute/issues/" + INO ;
   			w3.getHttpObject(url, _loadIssue);
 		}
 		_on_off_div(b,d);		
