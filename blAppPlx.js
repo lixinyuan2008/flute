@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1. 132 ";
+var _g_ver_blAppPlx = "v0.1. 134 ";
 
 function _plxJobClass()
 { 
@@ -64,6 +64,21 @@ function _plxJobClass()
 		s +=">";
 		s += " blAppPlx.js ";
 		s += "</a>"; 
+
+		s += "<a target='_blank'  href='https://lixinyuan2008.github.io/flute/'";
+		s += " style='color:green;'";
+		s +=">";
+		s += "lixinyuan2008/flute ";
+		s += "</a>"; 
+
+
+		s += "<a target='_blank'  href='https://littleflute.github.io/flute/'";
+		s += " style='color:lightgreen;'";
+		s +=">";
+		s += "littleflute/flute ";
+		s += "</a>"; 
+
+
 		d.innerHTML = s;
 		_on_off_div(b,d);
 		d.style.background = blGrey[5];
