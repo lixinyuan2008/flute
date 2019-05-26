@@ -1,6 +1,8 @@
  
-#  [v0.0. 4 ](https://github.com/littleflute/flute/edit/master/readme.md) | [me](https://littleflute.github.io/flute/) | [t.html](t.html)
+#  [v0.0. 5 ](https://github.com/littleflute/flute/edit/master/readme.md) | [me](https://littleflute.github.io/flute/) | [t.html](t.html)
 <div id = "id_div_4_plx">
+ ## [baidu](http://www.baidu.com)
+ 
   <button id = "id_btn_4_blApp">+blApp</button> 
 </div> 
 
